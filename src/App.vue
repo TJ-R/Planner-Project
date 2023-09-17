@@ -4,13 +4,16 @@ import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
-  <div id="day-container">
+  <div class="day-container">
+
+  </div>
+  <div class="day-container">
 
   </div>
 </template>
 
 <style scoped>
-#day-container {
+.day-container {
   border: solid red;
   width: 600px;
   height: 800px;
