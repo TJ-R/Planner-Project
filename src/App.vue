@@ -1,21 +1,13 @@
 <script setup>
 import { RouterLink, RouterView } from 'vue-router'
 import HelloWorld from './components/HelloWorld.vue'
+import Day from "@/components/Day.vue";
 </script>
 
 <template>
-  <div class="day-container">
-
-  </div>
-  <div class="day-container">
-
-  </div>
+  <Day></Day>
+  <Day></Day>
 </template>
 
 <style scoped>
-.day-container {
-  border: solid red;
-  width: 600px;
-  height: 800px;
-}
 </style>
