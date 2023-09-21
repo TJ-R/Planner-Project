@@ -14,7 +14,7 @@
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-content: center;
+    align-items: center;
     border: solid red;
     width: 600px;
     height: 800px;
@@ -22,6 +22,6 @@
   .hour-divider {
     background-color: slategray;
     width: 400px;
-    height: 3px;
+    height: 1px;
   }
 </style>
