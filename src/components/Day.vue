@@ -13,11 +13,12 @@
   .day-container {
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    gap: 200px;
     align-items: center;
     border: solid red;
     width: 600px;
     height: 800px;
+    padding: 200px 0;
   }
   .hour-divider {
     background-color: slategray;
