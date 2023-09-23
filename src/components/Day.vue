@@ -6,6 +6,28 @@
   <div class="day-container">
     <div class="hour-divider"></div>
     <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
+    <div class="hour-divider"></div>
   </div>
 </template>
 
@@ -13,7 +35,7 @@
   .day-container {
     display: flex;
     flex-direction: column;
-    gap: 200px;
+    gap: 50px;
     align-items: center;
     border: solid red;
     width: 600px;
