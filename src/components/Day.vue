@@ -8,26 +8,6 @@
     <div class="hour-divider"></div>
     <div class="hour-divider"></div>
     <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
-    <div class="hour-divider"></div>
   </div>
 </template>
 
